@@ -7,3 +7,4 @@ xhofe/alist:latest
 
 mysql
 jenkinsci/blueocean
+seanly/appset:jenkins-2.440.1-jdk17
